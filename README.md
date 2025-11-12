@@ -1,7 +1,7 @@
 # 🗳️ Proyecto de Votación - Operación Triunfo (OT)
 
 Este proyecto es una aplicación web full-stack que permite a los usuarios votar a sus participantes favoritos de Operación Triunfo. Combina tecnologías modernas para ofrecer una experiencia segura, escalable y fácil de usar.
-
+Proyecto académico desarrollado en el contexto universitario en colaboración con 3 compañeros.
 ---
 
 ## 🚀 Tecnologías utilizadas
